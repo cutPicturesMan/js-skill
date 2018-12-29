@@ -12,6 +12,6 @@ import、export
 3、正则：https://mp.weixin.qq.com/s/kDdikreTxYVFxXMQB6cYlA
 4、原始类型和Object：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures
 5、arguments
-6、object.defineProperty
+6、object.defineProperty 
 
 $watch的调用方式.md
