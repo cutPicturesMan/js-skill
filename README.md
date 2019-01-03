@@ -13,5 +13,7 @@ import、export
 4、原始类型和Object：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures
 5、arguments
 6、object.defineProperty 
+7、other
+8、分号自动插入机制
 
 $watch的调用方式.md
